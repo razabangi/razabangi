@@ -1,36 +1,88 @@
-<h1 align="center">Hi 👋, I'm Muhammad Raza Bangi</h1>
-<h3 align="center">A passionate full stack developer</h3>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razabangi&label=Profile%20views&color=0e75b6&style=flat" alt="razabangi" /> </p>
+⚡ I am a passionate full-stack developer with a strong focus on building innovative and efficient solutions. I strive to create high-quality code that solves real-world problems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razabangi" alt="razabangi" /></a> </p>
+⚙️ My expertise in Laravel enables me to build robust and scalable web applications, while my proficiency in NestJS ensures efficient and performant back-end systems. I am highly skilled in managing databases using both MySQL and MongoDB, which enables me to handle and retrieve data with the utmost efficiency. I possess a high level of proficiency in creating unit tests through the use of Jest.
 
-- 🌱 I’m currently learning **Flutter, React, Next.js**
+🚀 I also create dynamic and interactive user interfaces using Nuxt.js and Next.js, providing a seamless user experience. Furthermore, I demonstrated proficiency in SvelteKit and Qwik, allowing me to create lightweight and optimized web applications.
 
-- 📝 I regularly write articles on [https://medium.com/@razabangi](https://medium.com/@razabangi)
+☁️ I am also proficient in Docker containerization, which streamlines development and deployment processes. Moreover, my extensive understanding of Linux and Git ensures smooth server management and version control.
 
-- 📫 How to reach me **muhammadrazabangi9@gmail.com**
+🔥 I am a proponent of writing clean, readable, and maintainable code. I follow coding standards and adhere to principles such as SOLID, DRY (Don't Repeat Yourself), and KISS (Keep It Simple, Stupid). I strive for code that is easy to understand, debug, and extend.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15jEskJUcpl-0DB5toGwpeZKo7CT9wqMl/view?usp=drive_link](https://drive.google.com/file/d/15jEskJUcpl-0DB5toGwpeZKo7CT9wqMl/view?usp=drive_link)
+👨‍💻 I'm passionate about continuous learning and staying up to date with emerging technologies. I actively explore new frameworks, libraries, and tools that can enhance development processes and improve the end-user experience.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📞 Feel free to explore my repositories to get a better understanding of my coding style and the type of projects I have worked on. I am always open to feedback and collaboration, so if you find something that piques your interest or have any questions, please don't hesitate to reach out 🤝.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/razabangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="razabangi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-raza-bangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-raza-bangi" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadrazabangi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadrazabangi9" height="30" width="40" /></a>
-<a href="https://medium.com/@razabangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@razabangi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/razabangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razabangi" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razabangi&show_icons=true&locale=en&layout=compact" alt="razabangi" /></p>
+[![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
+[![php](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![nodejs](https://img.shields.io/badge/node.js-55a244?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razabangi&show_icons=true&locale=en" alt="razabangi" /></p>
+### Full-Stack Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razabangi&" alt="razabangi" /></p>
+[![laravel](https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![nuxt](https://img.shields.io/badge/nuxt-00dc82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
+[![sveltekit](https://img.shields.io/badge/Svelte%20Kit-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+### Back-End Development
+
+[![codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white)](https://www.codeigniter.com/)
+[![nestjs](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+
+### Front-End Development
+
+[![vuejs](https://img.shields.io/badge/vue.js-41b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![svelte](https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![react](https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![vite](https://img.shields.io/badge/vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-17bab9?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![bootstrap](https://img.shields.io/badge/bootstrap-7e13f8?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![css](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+
+### Database Development
+
+[![mongodb](https://img.shields.io/badge/mongodb-01ec64?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![mysql](https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![sqlite](https://img.shields.io/badge/sqlite-3d9eda?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+### Deployement Service
+
+[![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
+[![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![cpanel](https://img.shields.io/badge/cpanel-ff6c2c?style=for-the-badge&logo=cpanel&logoColor=white)](https://cpanel.net/)
+
+### Design Tools
+
+[![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+### Testing
+
+[![jest](https://img.shields.io/badge/jest-99425b?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![vitest](https://img.shields.io/badge/vitest-729b1a?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![cypress](https://img.shields.io/badge/cypress-489f80?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+
+### DevOps
+
+[![linux](https://img.shields.io/badge/linux-757575?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![ubuntu](https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![docker](https://img.shields.io/badge/docker-2396ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+### Tools
+
+[![git](https://img.shields.io/badge/git-de4c36?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-raza-bangi/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/razabangi)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/razabangi)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadrazabangi9@gmail.com)
