@@ -86,3 +86,7 @@
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/razabangi)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/razabangi)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadrazabangi9@gmail.com)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razabangi&show_icons=true&locale=en&layout=compact" alt="razabangi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razabangi&show_icons=true&locale=en" alt="razabangi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razabangi&" alt="razabangi" /></p>
