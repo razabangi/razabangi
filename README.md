@@ -1,92 +1,532 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<p align="center">
+  <img src="./github-hacker-hero.svg" width="100%" alt="Muhammad Raza Bangi — Senior Software Engineer" />
+</p>
 
-⚡ I am a passionate full-stack developer with a strong focus on building innovative and efficient solutions. I strive to create high-quality code that solves real-world problems.
+<div align="center">
 
-⚙️ My expertise in Laravel enables me to build robust and scalable web applications, while my proficiency in NestJS ensures efficient and performant back-end systems. I am highly skilled in managing databases using both MySQL and MongoDB, which enables me to handle and retrieve data with the utmost efficiency. I possess a high level of proficiency in creating unit tests through the use of Jest.
+# Muhammad Raza Bangi
 
-🚀 I also create dynamic and interactive user interfaces using Nuxt.js and Next.js, providing a seamless user experience. Furthermore, I demonstrated proficiency in SvelteKit and Qwik, allowing me to create lightweight and optimized web applications.
+### Senior Software Engineer • Backend Engineer • Laravel Specialist
 
-☁️ I am also proficient in Docker containerization, which streamlines development and deployment processes. Moreover, my extensive understanding of Linux and Git ensures smooth server management and version control.
+**Building scalable backend systems, SaaS products, APIs, automation and developer tools.**
 
-🔥 I am a proponent of writing clean, readable, and maintainable code. I follow coding standards and adhere to principles such as SOLID, DRY (Don't Repeat Yourself), and KISS (Keep It Simple, Stupid). I strive for code that is easy to understand, debug, and extend.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-muhammadrazabangi.com-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050505)](https://muhammadrazabangi.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050505)](https://www.linkedin.com/in/muhammad-raza-bangi/)
+[![DEV.to](https://img.shields.io/badge/DEV.TO-FOLLOW-39FF14?style=for-the-badge&logo=devdotto&logoColor=black&labelColor=050505)](https://dev.to/razabangi)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-FF3131?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:muhammadrazabangi9@gmail.com)
 
-👨‍💻 I'm passionate about continuous learning and staying up to date with emerging technologies. I actively explore new frameworks, libraries, and tools that can enhance development processes and improve the end-user experience.
+</div>
 
-📞 Feel free to explore my repositories to get a better understanding of my coding style and the type of projects I have worked on. I am always open to feedback and collaboration, so if you find something that piques your interest or have any questions, please don't hesitate to reach out 🤝.
+---
 
-## 🛠️ Skills
+## `root@razabangi:~$ whoami`
 
-### Languages
+```php
+<?php
 
-[![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
-[![php](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![nodejs](https://img.shields.io/badge/node.js-55a244?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+namespace RazaBangi;
 
-### Full-Stack Development
+class Developer extends SoftwareEngineer
+{
+    public string $name = 'Muhammad Raza Bangi';
 
-[![laravel](https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![nuxt](https://img.shields.io/badge/nuxt-00dc82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
-[![sveltekit](https://img.shields.io/badge/Svelte%20Kit-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
-[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+    public string $role = 'Senior Software Engineer';
 
-### Back-End Development
+    public string $primaryStack = 'Laravel';
 
-[![codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white)](https://www.codeigniter.com/)
-[![nestjs](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+    public array $focus = [
+        'Backend Engineering',
+        'System Architecture',
+        'SaaS Development',
+        'REST APIs',
+        'Automation',
+        'Developer Tools',
+    ];
 
-### Front-End Development
+    public array $currentlyExploring = [
+        'AI-powered applications',
+        'Scalable SaaS Architecture',
+        'System Design',
+        'Developer Experience',
+    ];
 
-[![vuejs](https://img.shields.io/badge/vue.js-41b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![svelte](https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-[![react](https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![vite](https://img.shields.io/badge/vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![tailwindcss](https://img.shields.io/badge/tailwindcss-17bab9?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![bootstrap](https://img.shields.io/badge/bootstrap-7e13f8?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![css](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+    public function mission(): string
+    {
+        return 'Build software that is fast, scalable, maintainable and useful.';
+    }
+}
+```
 
-### Database Development
+---
 
-[![mongodb](https://img.shields.io/badge/mongodb-01ec64?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![mysql](https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![sqlite](https://img.shields.io/badge/sqlite-3d9eda?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+# `> system.profile`
 
-### Deployement Service
+```yaml
+developer:
+  name: Muhammad Raza Bangi
+  role: Senior Software Engineer
+  location: Karachi, Pakistan
 
-[![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
-[![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![cpanel](https://img.shields.io/badge/cpanel-ff6c2c?style=for-the-badge&logo=cpanel&logoColor=white)](https://cpanel.net/)
+specialization:
+  - Backend Engineering
+  - Laravel Architecture
+  - SaaS Development
+  - REST APIs
+  - Automation
+  - System Design
 
-### Design Tools
+primary_stack:
+  backend:
+    - Laravel
+    - PHP
+    - Node.js
+    - NestJS
 
-[![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+  frontend:
+    - Next.js
+    - Vue.js
+    - Nuxt.js
+    - React
+    - Tailwind CSS
 
-### Testing
+  databases:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - SQLite
+    - Redis
 
-[![jest](https://img.shields.io/badge/jest-99425b?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![vitest](https://img.shields.io/badge/vitest-729b1a?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
-[![cypress](https://img.shields.io/badge/cypress-489f80?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+  infrastructure:
+    - Docker
+    - Linux
+    - Git
+    - GitHub Actions
+    - Nginx
+    - Vercel
+    - Cloudflare
 
-### DevOps
+engineering:
+  principles:
+    - SOLID
+    - DRY
+    - KISS
+    - Clean Code
+    - Maintainable Architecture
 
-[![linux](https://img.shields.io/badge/linux-757575?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![ubuntu](https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![docker](https://img.shields.io/badge/docker-2396ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+status:
+  coding: true
+  learning: always
+  building: true
+```
 
-### Tools
+---
 
-[![git](https://img.shields.io/badge/git-de4c36?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+# ⚡ `TECH ARSENAL`
 
+## `> backend --list`
 
-## 🔗 Links
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" />
+</p>
 
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-raza-bangi/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/razabangi)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/razabangi)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadrazabangi9@gmail.com)
+```text
+Laravel       ████████████████████  PRIMARY
+PHP           ████████████████████  PRIMARY
+Node.js       █████████████████░░░  ACTIVE
+NestJS        ███████████████░░░░░  ACTIVE
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razabangi&show_icons=true&locale=en&layout=compact" alt="razabangi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razabangi&show_icons=true&locale=en" alt="razabangi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razabangi&" alt="razabangi" /></p>
+---
+
+## `> frontend --list`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,react,tailwind,bootstrap,html,css,js,ts,vite" />
+</p>
+
+`Next.js` `Vue.js` `Nuxt.js` `React` `Tailwind CSS` `Bootstrap` `JavaScript` `TypeScript` `Vite`
+
+---
+
+## `> database --status`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
+</p>
+
+```sql
+SELECT technology, status
+FROM developer_stack
+WHERE category = 'database';
+
++------------+-------------+
+| Technology | Status      |
++------------+-------------+
+| MySQL      | Production  |
+| PostgreSQL | Production  |
+| MongoDB    | Experienced |
+| SQLite     | Active      |
+| Redis      | Active      |
++------------+-------------+
+```
+
+---
+
+## `> infrastructure --scan`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,githubactions,nginx,vercel,cloudflare" />
+</p>
+
+```bash
+$ docker --version
+✓ Containerized development environments
+
+$ git status
+On branch main
+nothing to commit, working tree clean
+
+$ uname -a
+Linux / Ubuntu / Production Servers
+
+$ deployment --targets
+
+✓ Docker
+✓ Nginx
+✓ Vercel
+✓ Cloudflare
+✓ CI/CD
+```
+
+---
+
+# 🧠 `ENGINEERING DNA`
+
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  BACKEND ENGINEERING      ████████████████████   │
+│  API DEVELOPMENT          ████████████████████   │
+│  DATABASE DESIGN          ███████████████████░   │
+│  SYSTEM ARCHITECTURE      ██████████████████░░   │
+│  AUTOMATION               █████████████████░░░   │
+│  DEVOPS                   ███████████████░░░░░   │
+│  FRONTEND                 ███████████████░░░░░   │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+I care about more than making code work.
+
+I build software that is:
+
+- ⚡ Performant
+- 📈 Scalable
+- 🧩 Modular
+- 🧪 Testable
+- 🔐 Secure
+- 📖 Readable
+- 🛠️ Maintainable
+
+---
+
+# 🔥 `CURRENT PROCESS`
+
+```bash
+raza@github:~$ ps aux | grep raza
+
+PID     PROCESS                         STATUS
+001     Backend Engineering             RUNNING
+002     Laravel Architecture            RUNNING
+003     SaaS Development                RUNNING
+004     REST API Development            RUNNING
+005     Automation                      RUNNING
+006     Developer Tools                 RUNNING
+007     AI Integration                  LEARNING
+008     System Design                   LEARNING
+
+raza@github:~$ echo $MINDSET
+
+"Keep building. Keep learning. Ship useful software."
+
+raza@github:~$ _
+```
+
+---
+
+# 🚀 `WHAT I BUILD`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+Scalable APIs and backend architectures built for performance and maintainability.
+
+```text
+Laravel
+REST APIs
+Authentication
+Queues
+Jobs
+Events
+Caching
+Database Design
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ SaaS Applications
+
+Production-ready software built around real business workflows.
+
+```text
+Admin Panels
+Subscriptions
+Multi-tenant Systems
+Dashboards
+Automation
+Integrations
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Automation
+
+Automating repetitive tasks and complex business workflows.
+
+```text
+Background Jobs
+Scheduled Commands
+Notifications
+External APIs
+AI Integrations
+Workflow Automation
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧰 Developer Tools
+
+Tools designed to improve developer experience and productivity.
+
+```text
+Laravel Packages
+CLI Tools
+Internal Platforms
+Code Generators
+Developer Resources
+Utilities
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏗️ `FEATURED BUILD`
+
+<div align="center">
+
+## 92 Nodes
+
+### Web • AI • Software • Automation
+
+[![92 Nodes](https://img.shields.io/badge/92_NODES-VISIT_WEBSITE-39FF14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=050505)](https://92nodes.com)
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│                 92 NODES                     │
+│                                              │
+│         BUILD  →  AUTOMATE  →  SCALE         │
+│                                              │
+│         Web Development                      │
+│         SaaS Products                        │
+│         AI Solutions                         │
+│         Software Automation                  │
+│         Developer Resources                  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 💻 `DEVELOPER TERMINAL`
+
+```console
+┌──(raza㉿github)-[~/profile]
+└─$ ./developer --info
+
+[+] Name .............. Muhammad Raza Bangi
+[+] Role .............. Senior Software Engineer
+[+] Primary Weapon .... Laravel
+[+] Runtime ........... PHP / Node.js
+[+] Database .......... MySQL / PostgreSQL
+[+] Environment ....... Docker / Linux
+[+] Architecture ...... APIs / SaaS / Automation
+[+] Location .......... Karachi, Pakistan
+[+] Current Status .... BUILDING
+
+Scanning repositories...
+
+████████████████████████████████████████ 100%
+
+System status: STABLE
+Developer status: ONLINE ✓
+```
+
+---
+
+# 🎯 `CURRENT FOCUS`
+
+```javascript
+const currentMission = {
+    backend: "Scalable Laravel systems",
+    architecture: "Clean and maintainable applications",
+    saas: "Production-ready products",
+    automation: "Less repetitive work",
+    ai: "Practical AI integrations",
+    openSource: "Useful developer tools",
+};
+
+while (true) {
+    learn();
+    build();
+    ship();
+    improve();
+}
+```
+
+---
+
+# 📊 `GITHUB TELEMETRY`
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=razabangi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=razabangi&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="55%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=razabangi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF"
+/>
+
+</div>
+
+---
+
+# 📡 `ACTIVITY MONITOR`
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=razabangi&bg_color=000000&color=39FF14&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION STREAM`
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/razabangi/razabangi/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
+
+</div>
+
+> For the snake animation, add a GitHub Action that generates the `output/github-contribution-grid-snake-dark.svg` file.
+
+---
+
+# 🧪 `CODE PHILOSOPHY`
+
+```php
+final class EngineeringMindset
+{
+    public function build(): void
+    {
+        $this->writeCleanCode();
+        $this->keepThingsSimple();
+        $this->designForChange();
+        $this->testCriticalLogic();
+        $this->optimizeWhenNecessary();
+        $this->ship();
+    }
+}
+```
+
+```text
+SOLID  > shortcuts
+DRY    > duplication
+KISS   > unnecessary complexity
+TESTS  > assumptions
+SHIP   > endless perfection
+```
+
+---
+
+# 🤝 `ESTABLISH CONNECTION`
+
+I'm always interested in talking about:
+
+`Laravel` • `Backend Engineering` • `SaaS` • `System Design` • `Automation` • `AI` • `Developer Tools`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadrazabangi.com-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://muhammadrazabangi.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Raza_Bangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raza-bangi/)
+[![DEV](https://img.shields.io/badge/DEV.to-razabangi-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/razabangi)
+[![GitHub](https://img.shields.io/badge/GitHub-@razabangi-181717?style=for-the-badge&logo=github)](https://github.com/razabangi)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazabangi9@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> connection closed.
+
+> Thanks for visiting my terminal.
+
+> See you in the next commit. █
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=razabangi&label=PROFILE+SCANS&color=39ff14&style=flat-square)
+
+**Muhammad Raza Bangi © 2026**
+
+</div>
