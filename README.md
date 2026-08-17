@@ -466,8 +466,6 @@ while (true) {
 
 </div>
 
-> For the snake animation, add a GitHub Action that generates the `output/github-contribution-grid-snake-dark.svg` file.
-
 ---
 
 # 🧪 `CODE PHILOSOPHY`
