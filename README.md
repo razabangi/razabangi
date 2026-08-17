@@ -65,7 +65,7 @@ class Developer extends SoftwareEngineer
 developer:
   name: Muhammad Raza Bangi
   role: Senior Software Engineer
-  location: Karachi, Pakistan
+  location: Pakistan
 
 specialization:
   - Backend Engineering
@@ -81,6 +81,7 @@ primary_stack:
     - PHP
     - Node.js
     - NestJS
+    - Python
 
   frontend:
     - Next.js
