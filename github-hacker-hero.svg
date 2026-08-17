@@ -1,0 +1,118 @@
+<svg width="1000" height="440" viewBox="0 0 1000 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050806"/>
+      <stop offset="1" stop-color="#08110D"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#39FF14" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#39FF14" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#39FF14" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="codeClip">
+      <rect x="45" y="90" width="535" height="295" rx="12"/>
+    </clipPath>
+
+    <style>
+      .mono { font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace; }
+      .label { fill:#7CFF6B; font-size:14px; letter-spacing:1.4px; }
+      .value { fill:#F4FFF2; font-size:18px; font-weight:700; }
+      .muted { fill:#86A28B; font-size:13px; }
+      .code { fill:#B9FFC1; font-size:14px; }
+      .accent { fill:#39FF14; }
+      .cyan { fill:#00E5FF; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="440" rx="22" fill="url(#bg)"/>
+  <rect width="1000" height="440" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="438" rx="21" stroke="#39FF14" stroke-opacity=".22"/>
+
+  <!-- top bar -->
+  <circle cx="28" cy="27" r="5" fill="#FF5F56"/>
+  <circle cx="46" cy="27" r="5" fill="#FFBD2E"/>
+  <circle cx="64" cy="27" r="5" fill="#27C93F"/>
+  <text x="90" y="32" class="mono muted">~/github/razabangi/profile.sh</text>
+  <text x="860" y="32" class="mono label">SECURE SESSION</text>
+
+  <!-- left terminal panel -->
+  <rect x="35" y="70" width="560" height="335" rx="16" fill="#050A07" fill-opacity=".78" stroke="#39FF14" stroke-opacity=".14"/>
+  <text x="55" y="102" class="mono accent" font-size="15" font-weight="700">&gt; INITIALIZING DEVELOPER PROFILE...</text>
+
+  <g clip-path="url(#codeClip)">
+    <g id="codeBlock">
+      <text x="55" y="135" class="mono code">01  class Developer extends SoftwareEngineer {</text>
+      <text x="55" y="160" class="mono code">02      public string $name = "Muhammad Raza Bangi";</text>
+      <text x="55" y="185" class="mono code">03      public string $role = "Senior Software Engineer";</text>
+      <text x="55" y="210" class="mono code">04      public string $core = "Laravel / Backend";</text>
+      <text x="55" y="235" class="mono code">05      public array $focus = [</text>
+      <text x="75" y="260" class="mono code">"SaaS", "APIs", "Automation", "System Design"</text>
+      <text x="55" y="285" class="mono code">06      ];</text>
+      <text x="55" y="310" class="mono code">07      public function status(): string {</text>
+      <text x="75" y="335" class="mono code">return "BUILDING. LEARNING. SHIPPING.";</text>
+      <text x="55" y="360" class="mono code">08      }</text>
+      <text x="55" y="385" class="mono code">09  }</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -8; 0 0" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- scanning line -->
+    <rect x="40" y="90" width="545" height="46" fill="url(#scan)" opacity=".9">
+      <animate attributeName="y" values="92;350;92" dur="5.2s" repeatCount="indefinite"/>
+    </rect>
+    <line x1="45" x2="585" y1="110" y2="110" stroke="#39FF14" stroke-opacity=".85" filter="url(#glow)">
+      <animate attributeName="y1" values="100;365;100" dur="5.2s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="100;365;100" dur="5.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <text x="55" y="394" class="mono muted">scan://repositories</text>
+  <rect x="205" y="384" width="350" height="10" rx="5" fill="#0E1B12"/>
+  <rect x="205" y="384" width="350" height="10" rx="5" fill="#39FF14" filter="url(#glow)">
+    <animate attributeName="width" values="0;350;350;0" keyTimes="0;0.68;0.88;1" dur="5.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- divider -->
+  <line x1="620" y1="75" x2="620" y2="400" stroke="#39FF14" stroke-opacity=".16"/>
+
+  <!-- right info panel -->
+  <text x="655" y="100" class="mono label">DEVELOPER IDENTITY</text>
+  <text x="655" y="135" class="mono value" font-size="24">MUHAMMAD RAZA BANGI</text>
+  <text x="655" y="160" class="mono muted">Senior Software Engineer</text>
+
+  <text x="655" y="205" class="mono label">PRIMARY STACK</text>
+  <text x="655" y="232" class="mono value">Laravel • PHP • Node.js</text>
+
+  <text x="655" y="270" class="mono label">SPECIALIZATION</text>
+  <text x="655" y="297" class="mono value">Backend • SaaS • APIs</text>
+  <text x="655" y="322" class="mono value">Automation • Architecture</text>
+
+  <text x="655" y="360" class="mono label">STATUS</text>
+  <circle cx="666" cy="385" r="6" fill="#39FF14" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="682" y="391" class="mono value">ONLINE / BUILDING</text>
+
+  <!-- blink cursor -->
+  <rect x="565" y="96" width="8" height="16" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtle corner labels -->
+  <text x="35" y="425" class="mono muted">MRB // GITHUB PROFILE INTERFACE</text>
+  <text x="835" y="425" class="mono muted">v2026.08</text>
+</svg>
